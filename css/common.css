@@ -1,160 +1,135 @@
-﻿*
-{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
-ul,
-li
-{
-    list-style-type: none;
+ul, li {
+  list-style-type: none;
 }
-div::after,
-ul::after
-{
-    display: block;
-    visibility: hidden;
-    clear: both;
-    height: 0;
-    content: '';
+div::after, ul::after {
+  display: block;
+  visibility: hidden;
+  clear: both;
+  height: 0;
+  content: '';
 }
-body
-{
-    font-family: Helvetica, Arial, 'Microsoft YaHei', 'WenQuanYi Micro Hei', 'tohoma,sans-serif';
-    background-color: #fff;
+body {
+  background-color: #fff;
+  background-image: url(../img/bg.jpg);
+  background-repeat: repeat;
+  font-family: Helvetica, Arial, 'Microsoft YaHei', 'WenQuanYi Micro Hei', 'tohoma,sans-serif';
 }
-h3
-{
-    font-weight: normal;
+h3 {
+  font-weight: normal;
 }
-img
-{
-    border-style: none;
+img {
+  border-style: none;
 }
-a
-{
-    box-sizing: border-box;
-    text-decoration: none;
-    color: #000;
-    outline: none;
+a {
+  box-sizing: border-box;
+  text-decoration: none;
+  color: #000;
+  outline: none;
 }
-.clearfix
-{
-    clear: both;
-    zoom: 1;
-    width: 0;
-    height: 0;
+a:hover {
+  text-decoration: none !important;
 }
-.container-full
-{
-    width: 990px;
-    margin: 0 auto;
+.clearfix {
+  clear: both;
+  zoom: 1;
+  width: 0;
+  height: 0;
 }
-#header
-{
-    width: 100%;
+.container-full {
+  width: 990px;
+  margin: 0 auto;
 }
-.school-logo
-{
-    display: block;
-    float: left;
+#header {
+  width: 100%;
 }
-.department-logo
-{
-    display: block;
-    float: right;
+.school-logo {
+  display: block;
+  float: left;
 }
-.nav
-{
-    background-color: #000;
+.department-logo {
+  display: block;
+  float: right;
 }
-#main
-{
-    position: relative;
-    margin-top: 30px;
+.nav {
+  background-color: #000;
 }
-#main .col-left
-{
-    float: left;
-    width: 290px;
+#main {
+  position: relative;
+  margin-top: 30px;
 }
-#main .col-right
-{
-    float: right;
-    width: 650px;
+#main .col-left {
+  float: left;
+  width: 290px;
 }
-.box
-{
-    position: relative;
-    margin-bottom: 30px;
-    padding: 15px 25px;
-    border: 1px solid #e4e2e2;
-    background-color: #fff;
-    box-shadow: 3px 3px 10px #bfbfbf;
+#main .col-right {
+  float: right;
+  width: 670px;
 }
-
-.box h3
-{
-    font-size: 20px;
-    margin: 5px 0;
-    padding: 2px 10px;
-    text-align: center;
-    color: #fff;
-    background-color: #34AADC;
+.box {
+  position: relative;
+  margin-bottom: 30px;
+  padding: 15px 25px;
+  border: 1px solid #e4e2e2;
+  background-color: #fff;
+  box-shadow: 3px 3px 10px #bfbfbf;
 }
-.detail
-{
-    float: right;
-    color: #34AADC;
+.box h3 {
+  margin: 5px 0;
+  padding: 2px 10px;
+  text-align: center;
+  color: #fff;
+  background-color: #34AADC;
+  font-size: 20px;
 }
-
-
-#footer
-{
-    width: 990px;
+.detail {
+  float: right;
+  color: #34AADC;
 }
-#footer .row
-{
-    height: 140px;
-    margin-bottom: 0;
-    padding: 15px 25px;
+#footer {
+  width: 990px;
 }
-.box.row h3
-{
-    font-size: 20px;
-    width: 35px;
-    margin: 0;
-    padding: 20px 0;
-    word-wrap: break-word;
+#footer .row {
+  height: 140px;
+  margin-bottom: 0;
+  padding: 15px 25px;
 }
-#footer .col-left
-{
-    line-height: 28px;
-    float: left;
-    padding-left: 10px;
-    border-left: 1px dashed #bfbfbf;
+.box.row h3 {
+  width: 35px;
+  margin: 0;
+  padding: 20px 0;
+  word-wrap: break-word;
+  font-size: 20px;
 }
-#footer .col-right
-{
-    line-height: 28px;
-    float: right;
+#footer .col-left {
+  float: left;
+  width: auto;
+  padding-left: 10px;
+  border-left: 1px dashed #bfbfbf;
+  line-height: 28px;
 }
-.legal
-{
-    font-size: 13px;
-    width: 580px;
-    height: 50px;
-    margin: 0 auto;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    padding-left: 120px;
-    color: #69707a;
+#footer .col-right {
+  float: right;
+  width: auto;
+  line-height: 28px;
 }
-.copyright
-{
-    float: left;
+.legal {
+  width: 580px;
+  height: 50px;
+  margin: 0 auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 120px;
+  color: #69707a;
+  font-size: 13px;
 }
-.legal i
-{
-    font-style: normal;
-    color: #bf0d0d;
+.copyright {
+  float: left;
+}
+.legal i {
+  color: #bf0d0d;
+  font-style: normal;
 }

@@ -1,0 +1,39 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+.img-nav	D:\item\foreignlanguageDe\css\modular.css	/^.img-nav {$/;"	function	line:1
+.img-nav li	D:\item\foreignlanguageDe\css\modular.css	/^.img-nav li {$/;"	function	line:4
+.img-nav .last-imgli	D:\item\foreignlanguageDe\css\modular.css	/^.img-nav .last-imgli {$/;"	function	line:13
+.img-nav li a	D:\item\foreignlanguageDe\css\modular.css	/^.img-nav li a {$/;"	function	line:16
+.img-nav li:hover	D:\item\foreignlanguageDe\css\modular.css	/^.img-nav li:hover {$/;"	function	line:21
+.img-nav-text	D:\item\foreignlanguageDe\css\modular.css	/^.img-nav-text {$/;"	function	line:25
+.img-nav-text a	D:\item\foreignlanguageDe\css\modular.css	/^.img-nav-text a {$/;"	function	line:29
+.img-nav-text a:hover	D:\item\foreignlanguageDe\css\modular.css	/^.img-nav-text a:hover {$/;"	function	line:39
+.img-nav-text a.last-textli	D:\item\foreignlanguageDe\css\modular.css	/^.img-nav-text a.last-textli {$/;"	function	line:42
+.box.de-intro img	D:\item\foreignlanguageDe\css\modular.css	/^.box.de-intro img {$/;"	function	line:47
+.box.de-intro h3	D:\item\foreignlanguageDe\css\modular.css	/^.box.de-intro h3 {$/;"	function	line:51
+.box.de-intro p	D:\item\foreignlanguageDe\css\modular.css	/^.box.de-intro p {$/;"	function	line:55
+.box.news, .box.teach	D:\item\foreignlanguageDe\css\modular.css	/^.box.news, .box.teach {$/;"	function	line:64
+.box.news h3, .box.teach h3	D:\item\foreignlanguageDe\css\modular.css	/^.box.news h3, .box.teach h3 {$/;"	function	line:67
+#main .noindex.col-left	D:\item\foreignlanguageDe\css\modular.css	/^#main .noindex.col-left {$/;"	function	line:72
+#main .noindex.col-right	D:\item\foreignlanguageDe\css\modular.css	/^#main .noindex.col-right {$/;"	function	line:75
+.quick-nav	D:\item\foreignlanguageDe\css\modular.css	/^.quick-nav {$/;"	function	line:78
+.quick-nav-title	D:\item\foreignlanguageDe\css\modular.css	/^.quick-nav-title {$/;"	function	line:81
+.quick-nav-main li	D:\item\foreignlanguageDe\css\modular.css	/^.quick-nav-main li {$/;"	function	line:91
+.quick-nav-main li a	D:\item\foreignlanguageDe\css\modular.css	/^.quick-nav-main li a {$/;"	function	line:97
+.quick-nav-main li:last-child	D:\item\foreignlanguageDe\css\modular.css	/^.quick-nav-main li:last-child {$/;"	function	line:100
+.quick-nav-main li:hover	D:\item\foreignlanguageDe\css\modular.css	/^.quick-nav-main li:hover {$/;"	function	line:103
+.quick-nav-main li:hover a	D:\item\foreignlanguageDe\css\modular.css	/^.quick-nav-main li:hover a {$/;"	function	line:106
+.mycontent	D:\item\foreignlanguageDe\css\modular.css	/^.mycontent {$/;"	function	line:109
+.mycontent-main	D:\item\foreignlanguageDe\css\modular.css	/^.mycontent-main {$/;"	function	line:112
+.art-list	D:\item\foreignlanguageDe\css\modular.css	/^.art-list {$/;"	function	line:115
+.art-list a	D:\item\foreignlanguageDe\css\modular.css	/^.art-list a {$/;"	function	line:118
+.art-list li	D:\item\foreignlanguageDe\css\modular.css	/^.art-list li {$/;"	function	line:121
+.pagebar	D:\item\foreignlanguageDe\css\modular.css	/^.pagebar {$/;"	function	line:124
+.art-main h1	D:\item\foreignlanguageDe\css\modular.css	/^.art-main h1 {$/;"	function	line:127
+.art-main hr	D:\item\foreignlanguageDe\css\modular.css	/^.art-main hr {$/;"	function	line:133
+.art-main-intro	D:\item\foreignlanguageDe\css\modular.css	/^.art-main-intro {$/;"	function	line:136
+#vsb_newscontent div, #vsb_newscontent span	D:\item\foreignlanguageDe\css\modular.css	/^#vsb_newscontent div, #vsb_newscontent span {$/;"	function	line:139
